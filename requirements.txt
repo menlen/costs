@@ -4,7 +4,7 @@ chardet==3.0.4
 covid==2.3.0
 COVID19Py==0.3.0
 idna==2.10
-pydantic==1.6.1
+pydantic==1.6.2
 pyTelegramBotAPI==3.7.2
 requests==2.24.0
 six==1.15.0
